@@ -32,3 +32,4 @@ document.getElementById('start-btn').addEventListener('click', function() {
         resultDiv.innerHTML = "السرعة ديالك هي: <br><span style='font-size:35px; color:#28a745;'>" + speedMbps + " Mbps</span>";
     }
 });
+ 
